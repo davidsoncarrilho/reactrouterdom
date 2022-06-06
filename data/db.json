@@ -14,26 +14,6 @@
       "id": 3,
       "name": "Boné aba reta",
       "price": 29.9
-    },
-    {
-      "name": "Penis",
-      "price": "1200",
-      "id": 4
-    },
-    {
-      "name": "Cropped",
-      "price": "100",
-      "id": 5
-    },
-    {
-      "name": "Bola",
-      "price": "30",
-      "id": 6
-    },
-    {
-      "name": "tênis",
-      "price": "50",
-      "id": 7
     }
   ]
 }
